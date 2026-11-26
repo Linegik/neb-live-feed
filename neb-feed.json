@@ -1,0 +1,48 @@
+{
+  "updated_at": "2026-11-26T01:10:02Z",
+  "price": {
+    "usd": 0.435,
+    "change_24h": "-51.12%",
+    "volume_24h": 32666.14,
+    "source": "SafeTrade",
+    "live": true
+  },
+  "miners": {
+    "invminer": {
+      "version": "v2.2.0.38",
+      "published_at": "2026-11-25T19:25:12Z",
+      "url": "https://github.com/getrigeos/INVminer-Release/releases/tag/v2.2.0.38",
+      "assets": {
+        "hiveos": "https://github.com/getrigeos/INVminer-Release/releases/download/v2.2.0.38/invminer-2.2.0.38.tar.gz",
+        "linux_cuda12": "https://github.com/getrigeos/INVminer-Release/releases/download/v2.2.0.38/invminer-v2.2.0.38-linux-x86_64-cuda12.tar.gz",
+        "linux_cuda13": "https://github.com/getrigeos/INVminer-Release/releases/download/v2.2.0.38/invminer-v2.2.0.38-linux-x86_64-cuda13.tar.gz",
+        "windows": "https://github.com/getrigeos/INVminer-Release/releases/download/v2.2.0.38/invminer-v2.2.0.38-windows-x86_64.zip",
+        "windows_version": "v2.2.0.38"
+      }
+    },
+    "official": {
+      "version": "v1.0.9",
+      "published_at": "2026-11-25T16:53:42Z",
+      "url": "https://github.com/SilasEigen/neb/releases/tag/v1.0.9",
+      "assets": {}
+    },
+    "axehub": {
+      "version": "v2.0.7",
+      "published_at": "2026-11-24T10:13:26Z",
+      "url": "https://github.com/dwespl/axehub-miner/releases/tag/v2.0.7",
+      "assets": {}
+    },
+    "wildrig": {
+      "version": "1.0.5",
+      "published_at": "2026-11-24T18:13:01Z",
+      "url": "https://github.com/andru-kun/wildrig-ng/releases/tag/1.0.5",
+      "assets": {}
+    },
+    "nebx": {
+      "version": "latest",
+      "published_at": null,
+      "url": "https://github.com/nurserypool/nebx-miner/releases",
+      "assets": {}
+    }
+  }
+}
