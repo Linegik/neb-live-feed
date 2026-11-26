@@ -55,7 +55,6 @@ def fetch_price(prev_price):
         except Exception:
             continue
 
-    # Если биржа временно не ответила — сохраняем последнюю валидную цену
     if prev_price and prev_price.get("usd"):
         return {**prev_price, "live": False}
     return {"usd": 1.10, "change_24h": None, "volume_24h": None, "source": "fallback", "live": False}
@@ -83,7 +82,6 @@ def fetch_miner_release(repo):
                     "assets": {},
                 }
 
-                # Для INVminer ищем прямые ссылки на HiveOS, Linux CUDA13/12 и самую свежую Windows-сборку
                 if repo == "getrigeos/INVminer-Release":
                     for a in latest.get("assets", []):
                         name = a.get("name", "")
@@ -105,7 +103,6 @@ def fetch_miner_release(repo):
                             break
                 return info
 
-        # Если у репозитория нет Releases — берём последний тег
         r_tags = requests.get(
             f"https://api.github.com/repos/{repo}/tags?per_page=1",
             headers=headers,
