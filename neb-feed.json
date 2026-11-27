@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-26T19:18:22Z",
+  "updated_at": "2026-11-27T02:18:35Z",
   "price": {
-    "usd": 0.425,
-    "change_24h": "+10.39%",
-    "volume_24h": 20740.28,
+    "usd": 0.47,
+    "change_24h": "+23.68%",
+    "volume_24h": 19043.77,
     "source": "SafeTrade",
     "live": true
   },
