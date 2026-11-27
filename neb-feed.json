@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-27T11:01:58Z",
+  "updated_at": "2026-11-27T19:56:03Z",
   "price": {
-    "usd": 0.476,
-    "change_24h": "+10.70%",
-    "volume_24h": 16447.78,
+    "usd": 0.569,
+    "change_24h": "+22.10%",
+    "volume_24h": 27780.17,
     "source": "SafeTrade",
     "live": true
   },
   "miners": {
     "invminer": {
-      "version": "v2.2.0.38",
-      "published_at": "2026-11-25T19:25:12Z",
-      "url": "https://github.com/getrigeos/INVminer-Release/releases/tag/v2.2.0.38",
+      "version": "v2.2.0.40",
+      "published_at": "2026-11-27T14:13:54Z",
+      "url": "https://github.com/getrigeos/INVminer-Release/releases/tag/v2.2.0.40",
       "assets": {
-        "hiveos": "https://github.com/getrigeos/INVminer-Release/releases/download/v2.2.0.38/invminer-2.2.0.38.tar.gz",
-        "linux_cuda12": "https://github.com/getrigeos/INVminer-Release/releases/download/v2.2.0.38/invminer-v2.2.0.38-linux-x86_64-cuda12.tar.gz",
-        "linux_cuda13": "https://github.com/getrigeos/INVminer-Release/releases/download/v2.2.0.38/invminer-v2.2.0.38-linux-x86_64-cuda13.tar.gz",
-        "windows": "https://github.com/getrigeos/INVminer-Release/releases/download/v2.2.0.38/invminer-v2.2.0.38-windows-x86_64.zip",
-        "windows_version": "v2.2.0.38"
+        "hiveos": "https://github.com/getrigeos/INVminer-Release/releases/download/v2.2.0.40/invminer-2.2.0.40.tar.gz",
+        "linux_cuda12": "https://github.com/getrigeos/INVminer-Release/releases/download/v2.2.0.40/invminer-v2.2.0.40-linux-x86_64-cuda12.tar.gz",
+        "linux_cuda13": "https://github.com/getrigeos/INVminer-Release/releases/download/v2.2.0.40/invminer-v2.2.0.40-linux-x86_64-cuda13.tar.gz",
+        "windows": "https://github.com/getrigeos/INVminer-Release/releases/download/v2.2.0.40/invminer-v2.2.0.40-windows-x86_64.zip",
+        "windows_version": "v2.2.0.40"
       }
     },
     "official": {
@@ -27,9 +27,9 @@
       "assets": {}
     },
     "axehub": {
-      "version": "v2.0.7",
-      "published_at": "2026-11-24T10:13:26Z",
-      "url": "https://github.com/dwespl/axehub-miner/releases/tag/v2.0.7",
+      "version": "v2.0.8",
+      "published_at": "2026-11-27T19:01:59Z",
+      "url": "https://github.com/dwespl/axehub-miner/releases/tag/v2.0.8",
       "assets": {}
     },
     "wildrig": {
