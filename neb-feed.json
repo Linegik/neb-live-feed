@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-27T02:18:35Z",
+  "updated_at": "2026-11-27T11:01:58Z",
   "price": {
-    "usd": 0.47,
-    "change_24h": "+23.68%",
-    "volume_24h": 19043.77,
+    "usd": 0.476,
+    "change_24h": "+10.70%",
+    "volume_24h": 16447.78,
     "source": "SafeTrade",
     "live": true
   },
@@ -33,9 +33,9 @@
       "assets": {}
     },
     "wildrig": {
-      "version": "1.0.6",
-      "published_at": "2026-11-26T12:09:09Z",
-      "url": "https://github.com/andru-kun/wildrig-ng/releases/tag/1.0.6",
+      "version": "1.0.7",
+      "published_at": "2026-11-27T10:32:51Z",
+      "url": "https://github.com/andru-kun/wildrig-ng/releases/tag/1.0.7",
       "assets": {}
     },
     "nebx": {
