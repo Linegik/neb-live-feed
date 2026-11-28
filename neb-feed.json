@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-27T19:56:03Z",
+  "updated_at": "2026-11-28T02:34:31Z",
   "price": {
-    "usd": 0.569,
-    "change_24h": "+22.10%",
-    "volume_24h": 27780.17,
+    "usd": 0.507,
+    "change_24h": "+8.10%",
+    "volume_24h": 27562.16,
     "source": "SafeTrade",
     "live": true
   },
@@ -21,9 +21,9 @@
       }
     },
     "official": {
-      "version": "v1.0.9",
-      "published_at": "2026-11-25T16:53:42Z",
-      "url": "https://github.com/SilasEigen/neb/releases/tag/v1.0.9",
+      "version": "v1.0.11",
+      "published_at": "2026-11-27T22:26:54Z",
+      "url": "https://github.com/SilasEigen/neb/releases/tag/v1.0.11",
       "assets": {}
     },
     "axehub": {
